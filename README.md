@@ -1,3 +1,4 @@
 # TextEditor
 Simple Text Editor Using Python<br><br>
-Package install: pip install tkinter
+Package install<br>
+>pip install tkinter
